@@ -23,3 +23,5 @@ writeln;
 write('>>Hasil Perhitugan P(x) adalah : ' , hasil :2:2);
 readln;
 end.
+
+Sengaja disalahin library nya cari sampai benar ya :D
