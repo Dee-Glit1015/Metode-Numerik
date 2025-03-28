@@ -7,7 +7,7 @@ clrscr;
 write('--Mencari Persamaan Linier--');
 writeln;writeln;
 write(' Masukan nilai x[1] = '); readln(x1);
-write(' Masukan nikau y[1] = '); readln(y1);
+write(' Masukan nilai y[1] = '); readln(y1);
 write(' Masukan nilai x[2] = '); readln(x2);
 write(' Masukan nilai y[2] = '); readln(y2);
 write(' Masukan nilai x[3] = '); readln(x3);
